@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.19.2
+instagrapi==1.16.45
+requests==2.31.0
+telebot
+#pip install -r requirements.txt
