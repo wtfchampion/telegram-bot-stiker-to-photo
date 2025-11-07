@@ -39,3 +39,4 @@ def handle_sticker(message):
 
 print("Bot is running...")
 bot.polling()
+
